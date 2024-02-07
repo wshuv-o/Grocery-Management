@@ -1,0 +1,1 @@
+Name:abha<br>Address: shuva<br>Phone: shuva<br>name &nbsp; price &nbsp; quantity  &nbsp;  cost<br>_____________________________________________<br>T-shirt     &nbsp;19.99     &nbsp;2     &nbsp;39.98<br><br>Skirt     &nbsp;29.95     &nbsp;2     &nbsp;59.9<br><br><br>Total cost: <br>99.88<br>

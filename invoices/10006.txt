@@ -1,0 +1,1 @@
+Name:<br>Address: <br>Phone: <br>name &nbsp; price &nbsp; quantity  &nbsp;  cost<br>_____________________________________________<br>Laptop     &nbsp;899.99     &nbsp;5     &nbsp;4499.95<br><br>Backpack     &nbsp;39.95     &nbsp;1     &nbsp;39.95<br><br><br>Total cost: <br>4539.9<br>

@@ -1,0 +1,1 @@
+Name:<br>Address: <br>Phone: <br>name &nbsp; price &nbsp; quantity  &nbsp;  cost<br>_____________________________________________<br>Smartphone     &nbsp;599.00     &nbsp;80     &nbsp;47920.0<br><br>Sneakers     &nbsp;89.99     &nbsp;82     &nbsp;7379.179999999999<br><br><br>Total cost: <br>55299.18<br>
